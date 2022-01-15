@@ -1,4 +1,4 @@
-! [Banner] (https://github.com/davidemastricci/davidemastricci/blob/main/images/banner.png)
+! [Banner] (https://github.com/davidemastricci/davidemastricci/blob/main/images/banner.png?raw=true)
 
 ### Hi there 👋
 
