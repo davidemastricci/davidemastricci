@@ -13,6 +13,7 @@ Bonus Info:
 - ⚔️ Skills: Time Series Forecasting / Dialogflow / Python
 - 🌱 I’m currently learning Dart framework and NLP 
 - 👯 I’m looking to collaborate on a virtual assistant open source project 
+- 🎯 My 2021 goals are to contribute to an open source project & publish an API
 
 
 Let's get in touch:
