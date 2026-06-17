@@ -1,25 +1,60 @@
-![whoiam banner](https://github.com/davidemastricci/davidemastricci/blob/main/images/banner.png?raw=true)
+<div align="center">
 
-### Quick glance 🔎
- 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi I'm Davide, a ML Engineer with 5 of experience in time series analysis and chatbot development and MLOps.
-I am passionate about anything related to virtual assistants, chatbots, and NLP and how to use them ethically.
-In my spare time, I like to go into details of chatbots and voice-controlled software because I believe that's the present and the near future of human-computer interaction.
-Most of the AI project I've worked on struggled to get into and stay in production, that's why I decide to learn more abput MLOps as well.
+<img src="images/banner.png" alt="Davide Mastricci · AI Product Engineer" width="100%" />
 
-One of the best teachings that come from my university is not to focus on a technology but to understand the need behind it.
-The other great lesson from the world of work is that your assessment depends on the things you demonstrate that you are capable of completing.
-So for this year I will focus on showing off more projects publicly.
+# Davide Mastricci
 
+**AI Product Engineer** &nbsp;·&nbsp; `0 → 1` &nbsp; prototype → production → payments → paying users
 
-In a nuthshell:
+I build and ship AI products end to end, all the way to billing and paying users.<br/>
+Founder of **[aisthetix](https://www.aisthetix.com)**. I also architect multi-tenant platforms and ship RAG and agent systems for industry.
 
-- ⚔️ Skills: MLOps / Time Series Forecasting / Chatbot Development 
-- 🎯 My 2024 goal is to build a community of professionals around my YT channel and learn more about DevOps.
+</div>
 
+---
 
-Let's get in touch:
+### ▚ Building
 
-[![gmail favicon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davide.mastricci7@gmail.com)
+**[aisthetix](https://www.aisthetix.com)** · my AI virtual try-on and size-estimation SaaS for Shopify. Shoppers drop a photo, see the garment on themselves, and get a fit recommendation. Built solo, end to end: storefront widget, embedded admin, subscription billing, inference backend, infra.
 
-[![Linkedin favicon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidemastricci/)
+`React` `TypeScript` `Node` `FastAPI` `MongoDB` `Redis` `Gemini Vision` `GPT-4V` `CLIP` `Stripe` `Shopify Billing` `Docker`
+
+### ▚ Selected work
+
+*Client names withheld. Technology only.*
+
+**RAG assistant for an industrial energy operator.** Table-aware PDF extraction, page-level citations, a multi-model LLM strategy, and a local-first pipeline so the whole thing runs on a laptop before it touches the cloud.
+
+`React` `FastAPI` `Cloud Run` `pgvector` `Vertex AI` `Gemini`
+
+**Multi-tenant campaign-orchestration platform** *(role: architect)*. Event-driven, with real-time atomic payment settlement, per-tenant isolation down to the database row, and an immutable audit trail. 18 ADRs and a full C4 model.
+
+`Node/TS` `EKS` `PostgreSQL + RLS` `Kafka` `ClickHouse` `Auth0` `Vault` `Stripe Connect`
+
+**AI agents for debt collection, for a UK fintech.** Autonomous collection agents grounded in policy, live call-assist that feeds human agents suggestions mid-call, and automated transcript analysis.
+
+`LLM agents` `RAG` `Python` `WhatsApp / SMS`
+
+### ▚ Previously
+
+3Sides (social-media-aesthetics AI dashboard)  ·  EU Horizon research ML (PLOTO, Agro2Circular, RELEVIUM).
+
+---
+
+### ▚ Stack
+
+**Languages** &nbsp; `Python` `TypeScript` `Node` <br/>
+**AI / LLM** &nbsp; `Anthropic Claude` `Gemini / Vertex AI` `OpenAI` `RAG` `agents` `pgvector` <br/>
+**Frontend** &nbsp; `React` `Next.js` `Tailwind` `shadcn/ui` <br/>
+**Backend / Infra** &nbsp; `FastAPI` `AWS / EKS` `GCP / Cloud Run` `Kafka` `Docker` `Vercel` <br/>
+**Data** &nbsp; `PostgreSQL` `MongoDB` `Redis` `ClickHouse`
+
+---
+
+<div align="center">
+
+**Let's build something.**<br/>
+[LinkedIn](https://www.linkedin.com/in/davidemastricci/) &nbsp;·&nbsp; [davide.mastricci7@gmail.com](mailto:davide.mastricci7@gmail.com)
+<br/><sub>Based in Italy, working with teams everywhere.</sub>
+
+</div>
