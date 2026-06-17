@@ -21,23 +21,21 @@ Founder of **[aisthetix](https://www.aisthetix.com)**. I also architect multi-te
 
 ### ▚ Selected work
 
-*Client names withheld. Technology only.*
-
-**RAG assistant for an industrial energy operator.** Table-aware PDF extraction, page-level citations, a multi-model LLM strategy, and a local-first pipeline so the whole thing runs on a laptop before it touches the cloud.
+**RAG assistant for an industrial energy operator.** Table-aware PDF extraction, page-level citations, and a multi-model LLM strategy.
 
 `React` `FastAPI` `Cloud Run` `pgvector` `Vertex AI` `Gemini`
 
-**Multi-tenant campaign-orchestration platform** *(role: architect)*. Event-driven, with real-time atomic payment settlement, per-tenant isolation down to the database row, and an immutable audit trail. 18 ADRs and a full C4 model.
+**Multi-tenant campaign-orchestration platform** *(role: architect)*. Event-driven, with real-time atomic payment settlement, per-tenant isolation down to the database row, and an immutable audit trail.
 
 `Node/TS` `EKS` `PostgreSQL + RLS` `Kafka` `ClickHouse` `Auth0` `Vault` `Stripe Connect`
 
-**AI agents for debt collection, for a UK fintech.** Autonomous collection agents grounded in policy, live call-assist that feeds human agents suggestions mid-call, and automated transcript analysis.
+**AI agents for a fintech call center.** Autonomous agents grounded in policy: a negotiation agent that runs over WhatsApp via Twilio, live call-assist that feeds human agents suggestions mid-call, and automated call-transcript analysis.
 
-`LLM agents` `RAG` `Python` `WhatsApp / SMS`
+`LLM agents` `RAG` `Python` `WhatsApp` `Twilio`
 
 ### ▚ Previously
 
-3Sides (social-media-aesthetics AI dashboard)  ·  EU Horizon research ML (PLOTO, Agro2Circular, RELEVIUM).
+3Sides (social-media-aesthetics AI dashboard)  ·  EU Horizon research ML.
 
 ---
 
