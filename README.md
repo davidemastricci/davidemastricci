@@ -40,7 +40,7 @@ Founder of **[aisthetix](https://www.aisthetix.com)**. I also architect multi-te
 
 ### ▚ Previously
 
-3Sides (social-media-aesthetics AI dashboard)  ·  EU Horizon research ML.
+social-media-aesthetics AI dashboard  ·  EU Horizon research ML.
 
 ---
 
