@@ -34,6 +34,10 @@ Founder of **[aisthetix](https://www.aisthetix.com)**. I also architect multi-te
 
 `LLM agents` `RAG` `Python` `WhatsApp` `Twilio`
 
+**[Lume](https://davidemastricci.github.io/lume/)** · a calm iOS gratitude journal with a pixel-art companion, grounded in positive-psychology research (Seligman's "Three Good Things" and the savoring literature). No streaks, no accounts, no tracking: entries stay on your device and in your private iCloud.
+
+`Swift` `SwiftUI` `iOS` `iCloud`
+
 ### ▚ Previously
 
 3Sides (social-media-aesthetics AI dashboard)  ·  EU Horizon research ML.
