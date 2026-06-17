@@ -4,7 +4,8 @@
 
 # Davide Mastricci
 
-**AI Product Engineer** &nbsp;·&nbsp; `0 → 1` &nbsp; prototype → production → payments → paying users
+**AI Product Engineer** &nbsp;·&nbsp; `0 → 1`<br/>
+prototype → production → payments → paying users
 
 I build and ship AI products end to end, all the way to billing and paying users.<br/>
 Founder of **[aisthetix](https://www.aisthetix.com)**. I also architect multi-tenant platforms and ship RAG and agent systems for industry.
